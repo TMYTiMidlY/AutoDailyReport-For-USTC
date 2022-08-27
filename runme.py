@@ -35,6 +35,7 @@ out_school_data = [
     ("return_college[]", "庐阳区"),  # 目的地
     ("reason", "玩"),  # 原因
 ]
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="URC nCov auto report script.")
