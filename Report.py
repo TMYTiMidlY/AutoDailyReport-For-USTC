@@ -13,7 +13,6 @@ SHA_TZ = timezone(  # 北京时间
     name="Asia/Shanghai",
 )
 
-
 class Report(object):
 
     def __init__(self, stuid, password):
