@@ -1,6 +1,8 @@
 import argparse
 from Report import Report
 
+
+
 report_data = [
     ("juzhudi", "中校区"),  # 居住地
     ("dorm_building", "z1"),  # 宿舍楼
